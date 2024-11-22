@@ -46,8 +46,10 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![Screenshot 2024-11-22 140032](https://github.com/user-attachments/assets/00053bd3-e4d6-4ec2-b6cd-32594feb2f51)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![Screenshot 2024-11-22 135429](https://github.com/user-attachments/assets/bab02f65-eb40-4c37-9ea3-73c6718e9d3b)
 
 **RESULTS**
 
